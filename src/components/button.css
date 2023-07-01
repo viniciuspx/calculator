@@ -1,0 +1,18 @@
+button {
+    background-color: white;
+    border-radius: 5px;
+}
+
+.button {
+    height: 60px;
+    width: 60px;
+}
+
+.button-ac {
+    width: 240px;
+    height: 30px;
+}
+
+button:hover {
+    background-color: lightgrey;
+}
