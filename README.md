@@ -1,2 +1,2 @@
 # calculator
-ReactJS Calculator
+An simple calculator made with ReactJS
